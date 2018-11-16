@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="textviewPadding">16dp</dimen>
+    <dimen name="textviewSize">25dp</dimen>
+
+</resources>
